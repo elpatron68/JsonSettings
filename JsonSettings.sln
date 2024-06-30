@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSettings.Library", "JsonSettings.Library\JsonSettings.Library.csproj", "{B09404AE-958E-4A12-B400-8353DE49227B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonSettings.Library", "JsonSettings.Library\JsonSettings.Library.csproj", "{B09404AE-958E-4A12-B400-8353DE49227B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSettings.Test", "JsonSettings.Test\JsonSettings.Test.csproj", "{F1225DF3-CA06-4852-B7AC-89212A64D7B8}"
 EndProject
